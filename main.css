@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ota{
+    padding-top: 30px;
+    display: flex;
+    text-align: center ;
+    list-style: none;
+    justify-content: space-around;
+}
+.bola{
+    width: 200px;
+    border-radius: 30px;
+    background-color: red;
+    padding: 20px 0;
+}
+    body{
+    background-color: #343c56;
+}
+    .link{
+        color: rgb(255, 255, 255);
+font-size: 12px;
+font-weight: 700;
+text-align: center;
+text-decoration: none;
+    }
+   .hero {
+padding-top: 38px;
+    }
+    .image{
+        display: flex;
+        justify-content: space-around;
+    }
+    .div{
+        margin: 0 auto;
+        border: 50px;
+        border-radius: 50px;
+background-color: black;
+border: 1px solid red;
+width: 264px;
+height: 118px;
+        color: azure;
+        text-align: center;
+        font-size: 50px;
+        padding: 45px 0;
+        display: flex;
+        justify-content: space-around;
+    }
+    .class{
+        border: 100px;
+        border-radius: 100px;
+        width: 400px;
+        height: 200px;
+         background: rgb(97, 255, 0);;
+         display: flex;
+         justify-content: space-around;
+         align-items: center;
+         border: 30px solid red;
+         margin: 0 auto;
+        padding-top: 35px;
+        font-size: 100 ;
+    }
+    .amogus{
+        border: 100px;
+        border-radius: 100px;
+        width: 400px;
+        height: 200px;
+         background: rgb(97, 255, 0);;
+         display: flex;
+         justify-content: space-around;
+         border: 30px solid red;
+         margin: 0 auto;
+        padding-top: 35px;
+    }
